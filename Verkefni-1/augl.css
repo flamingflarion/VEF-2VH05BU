@@ -1,0 +1,84 @@
+.rammi a {
+    text-decoration: none;
+}
+.augl {
+    border: 2px solid darkolivegreen;
+    width: 23em;
+    height: 28em;
+    margin: 2em auto;
+    background: beige;
+    overflow: hidden;
+}
+.augl {
+    color: red;
+    text-align: center;
+    
+}
+
+#panorama {
+    position: relative;
+    top: -25em;
+    animation: pano 200s 1 ease-out;
+}
+
+@keyframes pano {
+    0% {
+        right: -0em;
+    }
+    100%{
+        right: 20em
+    }
+
+}
+#belgur1 {
+    position: relative;
+    bottom: 1em;
+    right:-20em;
+    z-index: 10;
+    animation: belgur 12s infinite;
+}
+@keyframes belgur {
+    0% {
+        left: -20em;
+    }
+    20% {
+        left: 22em;
+    }
+    50% {
+        left: -0;
+    }
+    80% {
+        left: -0;
+    }
+    100% {
+        left: 26em;
+    }
+}
+
+#haha {
+
+    color: lightcyan;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-size: 3em;
+    font-style: oblique;
+    z-index: 20;
+    position: relative;
+    animation: kvikun 6s infinite ease-in-out;
+}
+@keyframes kvikun {
+    0%    {
+        left: -10em;
+    }
+    25%    {
+        left: -0em;
+    }
+    75%    {
+        left: 0em;
+    }
+    
+    100%  {
+        left: 12em;
+    }
+}
