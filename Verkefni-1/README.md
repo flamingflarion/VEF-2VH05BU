@@ -1,6 +1,6 @@
 # Kvikun - _Animation_
 
-#Línkur á Vefsíðu Verkefni1
+# Línkur á Vefsíðu Verkefni1
 https://flamingflarion.github.io/VEF2VH05BU/.
 
 
