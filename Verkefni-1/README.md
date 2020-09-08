@@ -1,5 +1,21 @@
 # Kvikun - _Animation_
 
+#Línkur á Vefsíðu Verkefni1
+https://flamingflarion.github.io/VEF2VH05BU/.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CSS kvikun er hægt að nota til að lífga upp á vefsíður og vekja athygli notenda á einstökum hlutum síðunnar. Kvikun er hægt að setja á flest öll tög sem HTML býður upp á. 
 
 Kosturinn við CSS kvikun er að allir vafrar styðja CSS kvikun þannig að það þarf ekki að nota JavaScript til þess. 
